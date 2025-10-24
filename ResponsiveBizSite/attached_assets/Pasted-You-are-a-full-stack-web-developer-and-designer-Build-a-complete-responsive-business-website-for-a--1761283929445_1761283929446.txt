@@ -1,0 +1,121 @@
+You are a full-stack web developer and designer. Build a complete responsive business website for a Pakistan-based laser cutting company named “LaserCut.pk”.
+
+LaserCut.pk specializes in:
+- Acrylic, MDF, wood, and metal laser cutting
+- 3D LED signboards
+- Custom home décor
+- Acrylic nameplates
+- Personalized corporate gifts
+
+The website design should resemble and function like https://www.signomatic.com, but localized for Islamabad, Pakistan.
+
+==============================
+💡 Brand Identity & Style
+==============================
+- Theme: Futuristic, glassy, and premium look
+- Colors: Black, white, metallic silver, and neon blue
+- Font: Clean, modern sans-serif
+- Logo: Placeholder “LaserCut.pk”
+- Layout: Smooth animations, clean spacing, and professional appeal
+
+==============================
+📄 Pages & Structure
+==============================
+
+1. **Home Page**
+   - Hero section: “Precision Crafted. Laser Perfected.” with a short looping background video of laser cutting.
+   - Quick service tiles: Acrylic Cutting, 3D Signboards, Décor, Custom Gifts.
+   - Call-to-action buttons: “Get Instant Quote” and “Upload Your Design”.
+   - Mini “How It Works” section (Design → Upload → Cut → Deliver).
+   - Scrolling testimonials slider.
+   - Floating WhatsApp chat button.
+
+2. **Product Configurator Page**
+   - Interactive custom order builder (like Signomatic):
+     - Step 1: Choose Product (Signboard, Name Plate, Wall Art, Keychain, etc.)
+     - Step 2: Choose Material (Acrylic, MDF, Metal)
+     - Step 3: Enter Text / Upload Design (SVG, DXF, PDF)
+     - Step 4: Select Size, Thickness, Quantity
+     - Step 5: See live preview + price estimate
+     - Step 6: Add to Cart / Request Custom Quote
+   - Real-time preview updates with 3D-like effect.
+   - Backend can edit all product types, materials, and pricing formulas.
+
+3. **Shop / Product Gallery**
+   - Grid-style gallery with filters (Home Décor, 3D Signs, Corporate, Gifts).
+   - Each product has title, material, size, price range, and “Order Now” button.
+   - Dynamic data from backend (editable product catalog).
+
+4. **Upload & Quote Page**
+   - Form for direct upload of design files (.SVG, .DXF, .PDF).
+   - Input fields for material, dimensions, quantity, and notes.
+   - Option to send via WhatsApp or email.
+   - Auto-email confirmation to admin (autoc639@gmail.com).
+
+5. **About Us Page**
+   - Company mission and technology overview.
+   - Section: “Why Choose LaserCut.pk” — precision, quality, fast delivery.
+   - Embed short workshop video.
+
+6. **Contact Page**
+   - Contact details:
+     - 📞 +92 321 7000586
+     - ✉️ autoc639@gmail.com
+   - WhatsApp floating chat
+   - Google Map embed of Islamabad
+   - Contact form (sends message to admin email)
+
+7. **Admin Backend (Editable Everything)**
+   - Secure login (admin: autoc639@gmail.com)
+   - Dashboard sections:
+     - Manage Products (add/edit/delete)
+     - Manage Materials & Prices
+     - Manage Orders & Inquiries
+     - Upload Gallery Photos
+     - Edit Text on Every Page (inline editing)
+     - SEO Settings (meta titles, keywords, descriptions)
+     - Add/Remove Team Members
+   - Built-in Analytics dashboard (visits, top pages, conversion rate)
+   - Dark/Light mode for admin
+
+8. **Footer**
+   - Quick links, social icons (Facebook, Instagram, TikTok)
+   - Legal text + copyright © 2025 LaserCut.pk
+   - SEO-rich text: “Laser Cutting in Islamabad | Acrylic Décor | 3D LED Sign Boards Pakistan”
+
+==============================
+💳 Payment & Local Integration
+==============================
+- Payment methods: JazzCash, EasyPaisa, Bank Transfer
+- Delivery tracking page (manual status update by admin)
+- WhatsApp ordering button on all product pages
+- Multi-language toggle (English / Urdu)
+
+==============================
+🧠 Technical Requirements
+==============================
+- Frontend: Next.js + Tailwind CSS (or React)
+- Backend: Firebase / Supabase / Node.js with full CMS
+- Database: Firestore or PostgreSQL
+- Hosting: Vercel
+- Fully responsive (mobile-first)
+- SEO optimized for Pakistan (keywords: “Laser Cutting Islamabad”, “3D Sign Boards Pakistan”, “Acrylic Décor”)
+- Fast loading, compressed images, clean URLs
+- Secure with HTTPS
+
+==============================
+📈 Bonus Features
+==============================
+- Blog page: “Laser Design Ideas”, “Best Acrylic Décor 2025”, “Signboard Trends Pakistan”
+- Customer review system with star ratings
+- Automatic quote email generator
+- Social media feed integration (Instagram/Facebook)
+- Push notifications for new inquiries
+
+==============================
+📞 Contact Details
+==============================
+Company Name: LaserCut.pk
+Phone: +92 321 7000586
+Email: autoc639@gmail.com
+Location: Islamabad, Pakistan
